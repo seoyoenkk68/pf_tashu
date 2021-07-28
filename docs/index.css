@@ -1,0 +1,104 @@
+.con {
+  width: 1442px;
+  position: absolute;
+  height: 1000vh;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  /* background-color: rgba(255, 0, 0, 0.1); */
+  z-index: 10;
+}
+
+.tashu_pf_bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+}
+
+
+.box {
+  position: relative;
+  width: 1920px;
+  height: 100vh;
+  z-index: 1;
+}
+
+.img_ele img {
+  position: absolute;
+}
+
+.box-1 .img_1 {
+  right: 0;
+  top: 200px;
+  margin-right: -50px;
+}
+
+.box-2 .img_2 {
+  left: 400px;
+  top: 700px;
+}
+
+.box-2 .img_3 {
+  top: 460px;
+  right: 240px;
+}
+
+
+.box-4 {
+  height: 200vh;
+}
+
+.box-4 .img_4 {
+  bottom: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.box-5 .img_5 {
+  top: 50px;
+  left: 130px;
+}
+
+.box-5 .img_6 {
+  top: 150px;
+  left: 561px;
+}
+
+.box-5 .img_7 {
+  top: 250px;
+  left: 992px;
+}
+
+.box-5 .img_8 {
+  top: 350px;
+  left: 1423px;
+}
+
+.box-6 {
+  height: 185vh;
+}
+
+.box-6 .img_9-12 {
+  left: 500px;
+}
+
+.box-7 .img_13-16 {
+  left: 51.5%;
+  transform: translateX(-50%);
+  bottom: -70px;
+}
+
+.box-8 {
+  height: 200vh;
+}
+
+.box-8 .img_17 {
+  top: 180px;
+  left: 370px;
+}
+
+.box-8 .img_18 {
+  top: 380px;
+  left: 500px;
+}
